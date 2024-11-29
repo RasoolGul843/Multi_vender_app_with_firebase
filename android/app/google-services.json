@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "225418999366",
+    "project_id": "fypar-819e4",
+    "storage_bucket": "fypar-819e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225418999366:android:05d91f9b7e043bd2f8fc47",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225418999366-jfs8273i5og01otvh8ilccev8n3gvagf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp",
+            "certificate_hash": "207eed8a12a988a1091a159f3917364e291ee864"
+          }
+        },
+        {
+          "client_id": "225418999366-9b2fl3h6umfs9q7b9lsqjqamhpcb10o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3Dkvcai88ZDDXz01k82JuXg7VXAS3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225418999366-9b2fl3h6umfs9q7b9lsqjqamhpcb10o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225418999366-3etgihn72g9mckv3jb3n3rieteksb3it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fyp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225418999366:android:848e345d92a6ad10f8fc47",
+        "android_client_info": {
+          "package_name": "com.example.multi_vender_app_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225418999366-9b2fl3h6umfs9q7b9lsqjqamhpcb10o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3Dkvcai88ZDDXz01k82JuXg7VXAS3tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225418999366-9b2fl3h6umfs9q7b9lsqjqamhpcb10o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "225418999366-3etgihn72g9mckv3jb3n3rieteksb3it.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fyp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
